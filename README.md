@@ -11,6 +11,6 @@ The ycmd server SHUT DOWN (restart with ':YcmRestartServer').
 
 ## tmux
 
-$ cd
-$ git clone https://github.com/gpakosz/.tmux.git
-$ ln -s -f .tmux/.tmux.conf
+	$ cd
+	$ git clone https://github.com/gpakosz/.tmux.git
+	$ ln -s -f .tmux/.tmux.conf
